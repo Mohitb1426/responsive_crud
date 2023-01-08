@@ -1,0 +1,23 @@
+.homePageMainDiv {
+    padding: 0 10em;
+}
+
+.dataTable {
+    display: flex;
+    justify-content: center;
+}
+
+.homePageHeaderContainer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.homePageContainer {
+    padding: 2em 10em;
+}
+
+.headerTitleText {
+    font-size: 2em;
+    font-weight: 700;
+    font-style: normal;
+}
